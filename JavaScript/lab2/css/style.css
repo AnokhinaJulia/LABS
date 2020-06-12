@@ -1,0 +1,31 @@
+body {
+    font-size: 16px;
+  }
+  
+  #inputNewFile {
+    width: 30em;
+  }
+  
+  .catalogContainer {
+    margin-left: 3em;
+    min-width: 10em;
+    margin-top: 5em;
+    min-height: 310px;
+    border-radius: 0.5em;
+    padding: 2em;
+    background-color: #ffffff;
+    opacity: 0.95;
+  }
+  
+  .tree {
+    padding-left: 1em;
+  }
+  
+  .tree span:hover {
+    font-weight: bold;
+  }
+  
+  .tree span {
+    cursor: pointer;
+  }
+  
