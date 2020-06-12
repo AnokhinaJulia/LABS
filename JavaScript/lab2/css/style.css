@@ -2,6 +2,10 @@ body {
     font-size: 16px;
   }
   
+  #inputNewFile {
+    width: 30em;
+  }
+  
   .catalogContainer {
     margin-left: 3em;
     min-width: 10em;
